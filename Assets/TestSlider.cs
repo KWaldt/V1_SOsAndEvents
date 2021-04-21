@@ -48,6 +48,7 @@ namespace KristinaWaldt
 
 		protected void SetupComponents()
 		{
+			// BLAH
 			image = GetComponent<Image>();
 		}
 
