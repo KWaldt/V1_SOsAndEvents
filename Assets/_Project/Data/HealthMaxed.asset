@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: HealthMaxed
   m_EditorClassIdentifier: 
   defaultValue: 0
-  currentIntObject: {fileID: 0}
-  maxIntObject: {fileID: 0}
+  currentIntObject: {fileID: 11400000, guid: b7563e79ca2d84446a84dc882e899d5f, type: 2}
+  maxIntObject: {fileID: 11400000, guid: bad87fe2177244744b088d18441a11d1, type: 2}
