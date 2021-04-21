@@ -26,9 +26,9 @@
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/VariableObject.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/IntObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SetTextToIntObject.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/MaxedIntObject.cs" />
         <option value="$PROJECT_DIR$/Assets/TestSlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SetTextToIntObject.cs" />
       </list>
     </option>
   </component>
