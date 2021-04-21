@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc815361-a6f0-46f2-95b2-43d57848fe6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/92/b841cfc5/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/VariableObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ValueTypeBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/IntValueReactionChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/TestObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/VariableObjectBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/BasePercentageReaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/StringObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/GameObjectObjecz.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/GameObjectObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/VariableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/IntObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SetTextToIntObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/MaxedIntObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestSlider.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bSQGly2wT7DqEiV5tGn0zRUkyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderUnityFileTemplatesSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc815361-a6f0-46f2-95b2-43d57848fe6a" name="Default Changelist" comment="" />
+      <created>1588622922522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588622922522</updated>
+      <workItem from="1588622924994" duration="3053000" />
+      <workItem from="1588799986924" duration="613000" />
+      <workItem from="1589315553140" duration="40000" />
+      <workItem from="1589379290980" duration="1465000" />
+      <workItem from="1618316920048" duration="1721000" />
+      <workItem from="1618410055368" duration="5190000" />
+      <workItem from="1618833803016" duration="943000" />
+      <workItem from="1619003505852" duration="4666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3217" y="261" key="SettingsEditor" timestamp="1618410745895">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="3217" y="261" key="SettingsEditor/-1440.0.1440.860/0.0.5120.1400/1556.-1080.1920.1080@0.0.5120.1400" timestamp="1618410745895" />
+    <state x="2139" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1619003509411">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="2139" y="312" width="840" height="1034" key="search.everywhere.popup/-1440.0.1440.860/0.0.5120.1400/1556.-1080.1920.1080@0.0.5120.1400" timestamp="1619003509411" />
+    <state x="2358" y="-839" width="840" height="798" key="search.everywhere.popup/-1440.0.1440.860/0.0.5120.1400/1556.-1080.1920.1080@1556.-1080.1920.1080" timestamp="1618415904488" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
