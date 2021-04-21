@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="_Project" t="Include">
           <e p="Scripts" t="Include">
+            <e p="FillAmountToIntObject.cs" t="Include" />
             <e p="GameObjectObject.cs" t="Include" />
             <e p="IntObject.cs" t="Include" />
             <e p="MaxedIntObject.cs" t="Include" />
