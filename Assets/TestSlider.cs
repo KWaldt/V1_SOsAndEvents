@@ -42,7 +42,6 @@ namespace KristinaWaldt
 		{
 			float percentage = (float)currentObject.RuntimeValue / maxObject.RuntimeValue;
 			percentage = maxedInt.GetPercentage();
-			// Test
 			ApplyChanges(percentage);
 		}
 
