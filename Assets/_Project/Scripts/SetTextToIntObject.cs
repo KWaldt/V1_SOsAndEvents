@@ -15,7 +15,6 @@ namespace KristinaWaldt
         
         public UnityEvent testEvent;
 
-
         private void Awake()
         {
             textmesh = GetComponent<TextMeshProUGUI>();
